@@ -1,7 +1,7 @@
-baseURL = 'https://Brian-program.github.io/hugo-mock-landing-page-autodeployed/'
-title = "TRADEN"
+baseURL = 'https://Brian-program.github.io/TabsOFF-Landing-Page/'
+title = "TabsOFF Landing Page"
 author = "Brian Lu"
-copyright = "Brian Lu with Open-source <a class=\"text-muted text-decoration-none\" href=\"https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE\">MIT</a> Licensed."
+copyright = "TabsOFF"
 
 timeZone = 'Europe/London'
 
